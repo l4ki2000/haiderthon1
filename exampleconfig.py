@@ -4,8 +4,8 @@ from sample_config import Config
 class Development(Config):
 # ملاحضه تمسح الكلام العربي وتضع ببدالة الكود
     APP_ID = 6
-    API_HASH = "الايبي هاش"
-    ALIVE_NAME = "ضع اسمك"
+    API_HASH = " هاش"
+    ALIVE_NAME = "ع اسمك"
     DB_URI = "ضع رابط التخزين"
     STRING_SESSION = "ضع كود تريمكس"
     TG_BOT_TOKEN = "ضع توكن بوتك"
